@@ -1,0 +1,10 @@
+{
+  "servers": [
+    {
+      "id": 1,
+      "ip": "188.127.74",
+      "port": 3536,
+      "marker": "Crawless Roleplay"
+    }
+  ]
+}
